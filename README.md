@@ -2,14 +2,12 @@
 
 ## I'm a novice programmer looking for new and exciting projects!
 
-- I like challenges
-- Love learning new stuff
-- Great Teamwork
-- Single
-- Mexican
-- Spanish/English
+- 📈 I like challenges
+- 💻 Love learning new stuff
+- 🤝 Great Teamwork
+- 🔊 Spanish/English
 
-### Get in touch:
+### Get in Touch:
 
 <!-- [![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
 [![website](./icons/world_light.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-light-mode-only)
@@ -25,8 +23,11 @@
 [![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/) -->
 
 [<img width="26px" src="./icons/facebook_light.svg"/>][Facebook]
+&nbsp;&nbsp;
 [<img width="26px" src="./icons/instagram_light.svg"/>][Instagram]
+&nbsp;&nbsp;
 [<img width="26px" src="./icons/twitter_light.svg"/>][Twitter]
+&nbsp;&nbsp;
 [<img width="26px" src="./icons/linkedin_light.svg"/>][Linkedin]
 
 
@@ -36,8 +37,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<!-- Comming Soon -->
+
+<!-- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> -->
 <!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
@@ -45,7 +50,7 @@
 <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 
 
 <br />
