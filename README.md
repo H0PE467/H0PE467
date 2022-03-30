@@ -11,22 +11,24 @@
 
 ### Get in touch:
 
-[![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
+<!-- [![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
 [![website](./icons/world_light.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-light-mode-only)
 &nbsp;&nbsp;
-
 [![website](./icons/facebook_dark.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-dark-mode-only)
-[![website](./icons/facebook_light.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-light-mode-only)
+[![website](./icons/facebook_light.svg)](https://www.facebook.com/klaus.cedilloarredondo)
 &nbsp;&nbsp;
-
-[![website](./icons/instagram_dark.svg)](https://www.instagram.com/klausmc467/?hl=es)
+[![website](./icons/instagram_light.svg)](https://www.instagram.com/klausmc467/?hl=es)
 &nbsp;&nbsp;
-
 [![website](./icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
-[![website](./icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
+[![website](./icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
+[![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/) -->
 
-[![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
+[<img width="26px" src="./icons/facebook_light.svg"/>][Facebook]
+[<img width="26px" src="./icons/instagram_light.svg"/>][Instagram]
+[<img width="26px" src="./icons/twitter_light.svg"/>][Twitter]
+[<img width="26px" src="./icons/linkedin_light.svg"/>][Linkedin]
+
 
 
 ### Languages and Tools:
@@ -55,3 +57,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=H0PE467&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+[Facebook]:https://www.facebook.com/klaus.cedilloarredondo
+[Instagram]:https://www.instagram.com/klausmc467/?hl=es
+[Twitter]:https://www.linkedin.com/in/klaus-cedillo-b0a660231/
+[Linkedin]:https://www.linkedin.com/in/klaus-cedillo-b0a660231/
+
