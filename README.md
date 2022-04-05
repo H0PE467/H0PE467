@@ -9,7 +9,8 @@
 
 ### Get in Touch
 
-<!-- [![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
+<!-- 
+[![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
 [![website](./icons/world_light.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./icons/facebook_dark.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-dark-mode-only)
@@ -22,15 +23,25 @@
 &nbsp;&nbsp;
 [![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/) -->
 
-[<img width="26px" src="./icons/facebook_light.svg"/>][Facebook]
+[<img width="26px" src="./icons/facebook_dark.svg#gh-dark-mode-only"/>][Facebook]
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/instagram_light.svg"/>][Instagram]
+[<img width="26px" src="./icons/instagram_dark.svg#gh-dark-mode-only"/>][Instagram]
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/twitter_light.svg"/>][Twitter]
+[<img width="26px" src="./icons/twitter_dark.svg#gh-dark-mode-only"/>][Twitter]
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/linkedin_light.svg"/>][Linkedin]
+[<img width="26px" src="./icons/linkedin_dark.svg#gh-dark-mode-only"/>][Linkedin]
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/stackoverflow_light.svg"/>][StackOverflow]
+[<img width="26px" src="./icons/stackoverflow_dark.svg#gh-dark-mode-only"/>][StackOverflow]
+
+[<img width="26px" src="./icons/facebook_light.svg#gh-light-mode-only"/>][Facebook]
+&nbsp;&nbsp;
+[<img width="26px" src="./icons/instagram_light.svg#gh-light-mode-only"/>][Instagram]
+&nbsp;&nbsp;
+[<img width="26px" src="./icons/twitter_light.svg#gh-light-mode-only"/>][Twitter]
+&nbsp;&nbsp;
+[<img width="26px" src="./icons/linkedin_light.svg#gh-light-mode-only"/>][Linkedin]
+&nbsp;&nbsp;
+[<img width="26px" src="./icons/stackoverflow_light.svg#gh-light-mode-only"/>][StackOverflow]
 
 
 ### Languages
