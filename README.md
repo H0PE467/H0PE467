@@ -23,26 +23,30 @@
 &nbsp;&nbsp;
 [![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/) -->
 
-[<img width="26px" src="./icons/facebook_dark.svg#gh-dark-mode-only"/>][Facebook]
+[![Icon](icons/facebook_dark.svg#gh-dark-mode-only)](https://www.facebook.com/klaus.cedilloarredondo)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/instagram_dark.svg#gh-dark-mode-only"/>][Instagram]
+[![Icon](icons/instagram_dark.svg#gh-dark-mode-only)](https://www.instagram.com/klausmc467/?hl=es)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/twitter_dark.svg#gh-dark-mode-only"/>][Twitter]
+[![Icon](icons/twitter_dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/linkedin_dark.svg#gh-dark-mode-only"/>][Linkedin]
+[![Icon](icons/linkedin_dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/stackoverflow_dark.svg#gh-dark-mode-only"/>][StackOverflow]
+[![Icon](icons/stackoverflow_dark.svg#gh-dark-mode-only)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo)
 
-[<img width="26px" src="./icons/facebook_light.svg#gh-light-mode-only"/>][Facebook]
+[![Icon](icons/facebook_light.svg#gh-light-mode-only)](https://www.facebook.com/klaus.cedilloarredondo)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/instagram_light.svg#gh-light-mode-only"/>][Instagram]
+[![Icon](icons/instagram_light.svg#gh-light-mode-only)](https://www.instagram.com/klausmc467/?hl=es)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/twitter_light.svg#gh-light-mode-only"/>][Twitter]
+[![Icon](icons/twitter_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/linkedin_light.svg#gh-light-mode-only"/>][Linkedin]
+[![Icon](icons/linkedin_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
-[<img width="26px" src="./icons/stackoverflow_light.svg#gh-light-mode-only"/>][StackOverflow]
+[![Icon](icons/stackoverflow_light.svg#gh-light-mode-only)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo)
 
+
+<style>
+    img{ width:26px};
+</style>
 
 ### Languages
 
@@ -71,9 +75,5 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=H0PE467&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[Facebook]:https://www.facebook.com/klaus.cedilloarredondo
-[Instagram]:https://www.instagram.com/klausmc467/?hl=es
-[Twitter]:https://www.linkedin.com/in/klaus-cedillo-b0a660231/
-[Linkedin]:https://www.linkedin.com/in/klaus-cedillo-b0a660231/
-[StackOverflow]:https://stackoverflow.com/users/18224816/klaus-manuel-cedillo
+
 
