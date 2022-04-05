@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link> 
+
 # Hello, my name is Klaus - H0PE 
 
 ## I'm a novice programmer looking for new and exciting projects!
@@ -8,20 +10,6 @@
 - 🔊 Spanish/English
 
 ### Get in Touch
-
-<!-- 
-[![website](./icons/world_dark.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-dark-mode-only)
-[![website](./icons/world_light.svg)](https://h0pe467.github.io/KlausPortfolio/#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./icons/facebook_dark.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-dark-mode-only)
-[![website](./icons/facebook_light.svg)](https://www.facebook.com/klaus.cedilloarredondo)
-&nbsp;&nbsp;
-[![website](./icons/instagram_light.svg)](https://www.instagram.com/klausmc467/?hl=es)
-&nbsp;&nbsp;
-[![website](./icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
-[![website](./icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
-&nbsp;&nbsp;
-[![website](./icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/) -->
 
 [![Icon](icons/facebook_dark.svg#gh-dark-mode-only)](https://www.facebook.com/klaus.cedilloarredondo)
 &nbsp;&nbsp;
@@ -42,11 +30,6 @@
 [![Icon](icons/linkedin_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/)
 &nbsp;&nbsp;
 [![Icon](icons/stackoverflow_light.svg#gh-light-mode-only)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo)
-
-
-<style>
-    img{ width:26px};
-</style>
 
 ### Languages
 
