@@ -11,7 +11,7 @@
 
 ### Get in Touch
 
-[![Icon](icons/facebook_dark.svg#gh-dark-mode-only)](https://www.facebook.com/klaus.cedilloarredondo)
+![Icon](icons/facebook_dark.svg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Icon](icons/instagram_dark.svg#gh-dark-mode-only)](https://www.instagram.com/klausmc467/?hl=es)
 &nbsp;&nbsp;
@@ -21,7 +21,7 @@
 &nbsp;&nbsp;
 [![Icon](icons/stackoverflow_dark.svg#gh-dark-mode-only)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo)
 
-[![Icon](icons/facebook_light.svg#gh-light-mode-only)](https://www.facebook.com/klaus.cedilloarredondo)
+![Icon](icons/facebook_light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 [![Icon](icons/instagram_light.svg#gh-light-mode-only)](https://www.instagram.com/klausmc467/?hl=es)
 &nbsp;&nbsp;
