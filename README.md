@@ -11,25 +11,21 @@
 
 ### Get in Touch
 
-[![Icon](icons/facebook_dark.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Icon](icons/instagram_dark.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Icon](icons/twitter_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Icon](icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Icon](icons/stackoverflow_dark.svg)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo#gh-dark-mode-only)
-
+[![Icon width="500px"](icons/facebook_dark.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-dark-mode-only)
 [![Icon](icons/facebook_light.svg)](https://www.facebook.com/klaus.cedilloarredondo#gh-light-mode-only)
 &nbsp;&nbsp;
+[![Icon](icons/instagram_dark.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-dark-mode-only)
 [![Icon](icons/instagram_light.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-light-mode-only)
 &nbsp;&nbsp;
+[![Icon](icons/twitter_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
 [![Icon](icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
 &nbsp;&nbsp;
+[![Icon](icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
 [![Icon](icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
 &nbsp;&nbsp;
+[![Icon](icons/stackoverflow_dark.svg)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo#gh-dark-mode-only)
 [![Icon](icons/stackoverflow_light.svg)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo#gh-light-mode-only)
+
 
 ### Languages
 
