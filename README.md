@@ -17,8 +17,8 @@
 [![Icon](icons/instagram_dark.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-dark-mode-only)
 [![Icon](icons/instagram_light.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-light-mode-only)
 &nbsp;&nbsp;
-[![Icon](icons/twitter_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
-[![Icon](icons/twitter_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
+[![Icon](icons/twitter_dark.svg)](https://twitter.com/H0PE467#gh-dark-mode-only)
+[![Icon](icons/twitter_light.svg)](https://twitter.com/H0PE467#gh-light-mode-only)
 &nbsp;&nbsp;
 [![Icon](icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
 [![Icon](icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
@@ -29,11 +29,11 @@
 
 ### Languages
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;cursor: default;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;cursor: default;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;cursor: default;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;cursor: default;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;cursor: default;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
 <img align="left" alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 
