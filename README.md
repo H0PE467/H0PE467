@@ -17,9 +17,6 @@
 [![Icon](icons/instagram_dark.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-dark-mode-only)
 [![Icon](icons/instagram_light.svg)](https://www.instagram.com/klausmc467/?hl=es#gh-light-mode-only)
 &nbsp;&nbsp;
-[![Icon](icons/twitter_dark.svg)](https://twitter.com/H0PE467#gh-dark-mode-only)
-[![Icon](icons/twitter_light.svg)](https://twitter.com/H0PE467#gh-light-mode-only)
-&nbsp;&nbsp;
 [![Icon](icons/linkedin_dark.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-dark-mode-only)
 [![Icon](icons/linkedin_light.svg)](https://www.linkedin.com/in/klaus-cedillo-b0a660231/#gh-light-mode-only)
 &nbsp;&nbsp;
