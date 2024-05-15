@@ -26,7 +26,6 @@
 [![Icon](icons/stackoverflow_dark.svg)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo#gh-dark-mode-only)
 [![Icon](icons/stackoverflow_light.svg)](https://stackoverflow.com/users/18224816/klaus-manuel-cedillo#gh-light-mode-only)
 
-
 ### Languages
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
@@ -40,6 +39,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
+&nbsp;
 ### Currently Learning
 
 <img align="left" alt="Docker" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
