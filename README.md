@@ -60,5 +60,7 @@
 
 <img align="left" alt="H0PE's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=H0PE467&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+[![roadmap.sh](https://roadmap.sh/card/tall/668f686b7d03d0bb6db05517?variant=dark)](https://roadmap.sh)
+
 
 
